@@ -21,4 +21,4 @@
 deno run --allow-net --allow-read --allow-env --watch deno.ts
 ```
 
-[1]: https://dash.deno.com/new?url=https://raw.githubusercontent.com/sternelee/deno-gemini-proxy/main/deno.ts
+[1]: https://dash.deno.com/new?url=https://raw.githubusercontent.com/thianda91/xda2gemini/main/deno.ts
